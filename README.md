@@ -1,5 +1,12 @@
 # buildspace NFT Game Project
 
+Super cool fun project by _buildspace_ 
+I remixed into a Rap Battle meme parody NFT game
+Learned a lot about Solidity and React.js
+
+files have been updated to reflect changes i made for my project.
+
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
