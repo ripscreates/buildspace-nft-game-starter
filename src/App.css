@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: #0d1116;
+  background-color: #0d1116d7;
   overflow: scroll;
   text-align: center;
 }
@@ -30,7 +30,7 @@
 }
 
 .content-container {
-  background-color: #a200d6;
+  background-color: #c39ad0;
 }
 
 .cta-button {
@@ -60,10 +60,10 @@
 .connect-wallet-button {
   background-image: linear-gradient(
     to right,
-    #ff8177 0%,
-    #ff867a 0%,
+    #ffc477 0%,
+    #ffe07a 0%,
     #ff8c7f 21%,
-    #f99185 52%,
+    #fc6656 52%,
     #cf556c 78%,
     #b12a5b 100%
   );
@@ -72,7 +72,7 @@
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #a200d6, #ff6fdf);
+  background: -webkit-linear-gradient(left, #67ffcf, #fffa65);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-right: 15px;
